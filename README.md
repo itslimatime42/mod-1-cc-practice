@@ -23,7 +23,7 @@
 - Patient.name
 - patient#appointments
   - Gets a list of all the appointments (instances) that belong to this patient
-- patient#patients
+- patient#doctors
   - Gets a list of all the doctors (instances) that belong to this patient
 - patient#create_appointment
   - Takes a doctor as an argument
